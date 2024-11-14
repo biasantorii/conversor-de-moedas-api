@@ -59,7 +59,7 @@ As taxas de câmbio usadas são as seguintes:
 - [Documentação MDN sobre Manipulação de Formulários](https://developer.mozilla.org/pt-BR/docs/Learn/Forms)
 - [Documentação sobre `addEventListener`](https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener)
 - [Manipulação de DOM no JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model)
- 
+ - Exemplos de Uso da Fetch API
 ---
  # 💋AUTORES
  [<img loading="foto1.jpg" src="foto1.jpg" width=115><br><sub>Ana Beatriz Silva.</sub>](https://github.com/biasantorii) |
