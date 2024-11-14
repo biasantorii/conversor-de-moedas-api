@@ -1,6 +1,8 @@
 # Conversor de Moedas API - Projeto 2A
  
 Este projeto é um **Conversor de Moedas API - tempo real** básico que permite ao usuário converter valores entre três moedas: Dólar Americano (USD), Real Brasileiro (BRL) e Euro (EUR).
+
+![imagem](imagem.png)
  
 ## Funcionalidades
  
@@ -59,3 +61,7 @@ As taxas de câmbio usadas são as seguintes:
 - [Manipulação de DOM no JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model)
  
 ---
+ # 💋AUTORES
+ [<img loading="foto1.jpg" src="foto1.jpg" width=115><br><sub>Ana Beatriz Silva.</sub>](https://github.com/biasantorii) |
+
+ 
